@@ -20,10 +20,12 @@ background-attachment: fixed;
 .name {
 	font-family: 'Happy Monkey', cursive;
 	font-size: 60px;
+	margin-top: 20%;
 }
 
 h1	{
 	color: #400000;
+	font-family: 'Gruppo', cursive;
 }
 
 h3 {
